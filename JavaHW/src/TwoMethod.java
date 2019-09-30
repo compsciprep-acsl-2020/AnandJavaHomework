@@ -2,6 +2,8 @@ import java.util.*;
 
 public class TwoMethod {
 
+
+
     public static double F2C(double f){
 
         return 9/5.0 *(f-32);
