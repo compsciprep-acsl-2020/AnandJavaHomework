@@ -20,3 +20,7 @@ Project Euler No.6 is SquareSum.
 
 Project Euler No.7 is NthPrime.
 
+From October 5 onwards, I will be adding edit history to this file.
+
+October 5, 12:34, added comments to Project Euler Projects
+
