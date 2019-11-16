@@ -1,4 +1,6 @@
 import java.util.*;
+import java.io.*;
+import java.lang.*;
 
 
 public class Rotation {
@@ -35,7 +37,7 @@ public class Rotation {
         return false;
     }
     public static void main(String[]Args){
-        int [] bruh = {3,3,3,6,6,6,3,4,5};
+        int [] bruh = {3,1,3,6,6,6,3,4,5};
         rotate(bruh);
         System.out.println(num3(bruh));
     }
