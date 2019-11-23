@@ -10,8 +10,11 @@ public class NinetyNine {
 
             max = Math.max(max, a.get(i));
         }
+
         return max;
+
     }
+
     public static int isA(String val, int sum){
         if(val.equals("14")) {
             if (sum + 14 < 99) {
@@ -31,7 +34,9 @@ public class NinetyNine {
 
 
     public static String[] format(String[] input) {
+
         String[] thing = input;
+
         for (int i = 0; i < input.length; i++) {
 
             String trial = thing[i].trim();
